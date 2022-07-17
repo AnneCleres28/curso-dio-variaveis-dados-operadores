@@ -90,6 +90,5 @@ public class MainOperadores {
 
         System.out.println("c *= i += 5: " + c);
 
-        //TESTE
     }
 }
