@@ -89,5 +89,7 @@ public class MainOperadores {
         c *= i += 5; // c = 2 * i; i = i + 5 -> c = 2 * i; i = 10 + 5; -> c = 2 * 15; -> c = 2 * 15; c =30
 
         System.out.println("c *= i += 5: " + c);
+
+        //TESTE
     }
 }

@@ -47,5 +47,6 @@ public class Casting {
 
         System.out.println("b1:" + b1);
 
+        //TESTE
     }
 }
